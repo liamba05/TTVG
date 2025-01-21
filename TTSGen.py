@@ -4,7 +4,7 @@ import os
 import json
 
 # Azure Speech Service credentials
-AZURE_API_KEY = "fdfd85b0513d4fc7b0a895f471fc5ec9"
+AZURE_API_KEY = "a"
 AZURE_REGION = "eastus"
 AZURE_TTS_URL = f"https://{AZURE_REGION}.tts.speech.microsoft.com/cognitiveservices/v1"
 
