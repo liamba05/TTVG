@@ -1,3 +1,6 @@
 Fill in the json with requested information then run main.py to create video.
 
-Note: Only works on my computer. :) 
+Note: Only works on my computer. :)
+
+---
+*Last updated: 2026-02-17*
